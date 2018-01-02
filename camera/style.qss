@@ -1,0 +1,55 @@
+QMainWindow {
+    background: #ffffff;
+    color: #000000;
+}
+
+QPushButton {
+    background: #CC6600;
+    border: 0px solid;
+    color: #ffffff;
+}
+
+QPushButton:focus {
+    outline: none;
+}
+
+QPushButton:hover {
+    background: #CC6600;
+}
+
+
+QCheckBox {
+    background: #ffffff;
+}
+
+QCheckBox:focus {
+    outline: none;
+}
+
+QLineEdit {
+    border: 1px solid #bbbbbb;
+}
+
+QLineEdit:focus {
+    border: 1px solid #29bb9c;
+}
+
+QLabel {
+    color: #CC6600;
+}
+
+QLabel#video1, QLabel#image2, QLabel#pointImage {
+    border: 0px;
+    background: #CC6600;
+    color: #ffffff;
+}
+
+QLabel#video2, QLabel#image1 {
+    border: 0px;
+    background: #F2F2F2;
+}
+
+QLabel#motor1, QLabel#motor2, QLabel#screenshot, QLabel#shortcut {
+    font: bold 14px;
+    color: #CC6600;
+}

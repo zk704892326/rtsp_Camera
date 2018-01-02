@@ -1,0 +1,13 @@
+<RCC>
+    <qresource prefix="/">
+        <file>style.qss</file>
+        <file>user.png</file>
+        <file>menu_03.png</file>
+        <file>sy_11.png</file>
+        <file>sy_01.png</file>
+        <file>sy_02.png</file>
+        <file>sy_03.png</file>
+        <file>sy_04.png</file>
+        <file>sy_11_user.png</file>
+    </qresource>
+</RCC>
